@@ -1,47 +1,46 @@
-# 👋 Hi, I'm Gaokai Zhang
+## 👋 Hi there, I'm Gaokai Zhang
 
-**Ex Intern @ Microsoft Research Asia (MSRA)**  
-**M.S. in Intelligent Information Systems @ CMU LTI (Incoming '25)**  
-**Undergrad @ UIUC & ZJU '25 | Researcher in LLM Reasoning and Systems**
-
----
-
-🔬 I work at the intersection of **Large Language Models** and **systems research**, with a focus on:
-- 🧠 Reasoning capabilities in long-context LLMs
-- 📏 Efficient context extension for LLMs (e.g., [LongRoPE2](https://arxiv.org/abs/2502.20082), ICML'25)
-- ☁️ Distributed training and cost-aware GPU deployment (UIUC Lab with [@fanlai0990](https://github.com/fanlai0990))
+- 🎓 I'm an incoming Master's student in **Intelligent Information Systems (MIIS)** at **CMU LTI**.  
+- 💡 I graduated from the **UIUC & ZJU dual-degree program** in Computer and Electrical Engineering.  
+- 🧠 I'm passionate about **LLMs**, **reasoning**, and **systems**.  
+- 🛠️ Most recently, I interned at **Microsoft Research Asia (MSRA)**, working on **long-context LLMs** (LongRoPE2, ICML'25).  
+- ☁️ At UIUC, I’ve been building **cost-efficient LLM training/inference pipelines** across A100/H100/TPUs with Prof. Fan Lai.  
+- 🧪 I'm also involved in research on **LLM robustness** and **data-centric safety benchmarks**.  
+- 📫 Reach me: gaokaiz2@illinois.edu
 
 ---
 
-### 📌 Featured Projects
+### ⚙️ Tech I Work With
 
-- 🧾 **[LongRoPE2 (ICML 2025)](https://arxiv.org/abs/2502.20082)**  
-  Extended LLaMA3-8B to a 128K effective context window while preserving >98.5% short-context performance using only 10B tokens—80× fewer than prior work.  
-
-- ☁️ **[Cloud LLM Planner]()**  
-  Designed a system for efficient LLM training across GPU accelerators under dynamic SLOs; improves cost/performance tradeoffs for cloud-scale deployment.
-
----
-
-### 🧰 Tech Stack
-
-`Python` `PyTorch` `HuggingFace` `verl` `Megatron-LM` `Slurm`  
-`CloudLab` `C++` `Assembly` `SQL` `Git`
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-HuggingFace-F9A03C?style=flat&logo=huggingface&logoColor=white)
+![Megatron-LM](https://img.shields.io/badge/-Megatron_LM-000000?style=flat&logo=nvidia&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Slurm](https://img.shields.io/badge/-Slurm-007EC6?style=flat)
+![CloudLab](https://img.shields.io/badge/-CloudLab-FCC624?style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![QEMU](https://img.shields.io/badge/-QEMU-9A1E1E?style=flat)
 
 ---
 
-### 📫 Contact
+### 🔬 Some Projects I'm Proud Of
 
-- 📄 [Resume](#) _(Coming soon)_
-- 🌐 [Personal Website](https://gaokaizhang.github.io)
-- 💼 [LinkedIn](https://www.linkedin.com/in/gaokaizhang)
-- 📬 gaokaiz@andrew.cmu.edu
+- 🧾 [**LongRoPE2**](https://arxiv.org/abs/2502.20082)  
+  Extended LLaMA3-8B to 128K context with >98.5% short-context retention. Only used 10B tokens (80× less than Meta's).  
+  *(ICML 2025 Poster)*
+
+- ☁️ **Cloud LLM Training Planner**  
+  Planner for optimized training/inference strategies across GPU/TPU setups under varying SLOs.  
+  *(In collaboration with UIUC Systems Lab @fanlai0990)*
 
 ---
 
-<details>
-  <summary>📊 GitHub Stats (optional)</summary>
+### 💬 Let's Connect
 
-  ![Gaokai's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GaokaiZhang&show_icons=true&theme=default)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaokaizhang)  
+[![Email](https://img.shields.io/badge/-gaokaiz2@illinois.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaokaiz2@illinois.edu)  
+[![Personal Site](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=githubpages&logoColor=white)](https://gaokaizhang.github.io)
 
-</details>
+
