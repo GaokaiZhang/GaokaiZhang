@@ -1,12 +1,12 @@
 ## 👋 Hi there, I'm Gaokai Zhang
 
 - 🎓 I'm an incoming Master's student in **Intelligent Information Systems (MIIS)** at **CMU LTI**.  
-- 💡 I graduated from the **UIUC & ZJU dual-degree program** in Computer and Electrical Engineering.  
+- 💡 I graduated from the **UIUC & ZJU dual-degree program** in Computer and Electronics Engineering.  
 - 🧠 I'm passionate about **LLMs**, **reasoning**, and **systems**.  
-- 🛠️ Most recently, I interned at **Microsoft Research Asia (MSRA)**, working on **long-context LLMs** (LongRoPE2, ICML'25).  
-- ☁️ At UIUC, I’ve been building **cost-efficient LLM training/inference pipelines** across A100/H100/TPUs with Prof. Fan Lai.  
+- 🛠️ Most recently, I interned at **Microsoft Research Asia (MSRA)**, working on **long-context LLMs** (LongRoPE2, ICML'25) and **reinforcement learning for LLM reasoning**.  
+- ☁️ At UIUC, I’ve been building **cost-efficient LLM training pipelines** across A100/H100/TPUs with Prof. Fan Lai.  
 - 🧪 I'm also involved in research on **LLM robustness** and **data-centric safety benchmarks**.  
-- 📫 Reach me: gaokaiz2@illinois.edu
+- 📫 Reach me: gaokaiz@andrew.cmu.edu
 
 ---
 
@@ -16,7 +16,6 @@
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-F9A03C?style=flat&logo=huggingface&logoColor=white)
 ![Megatron-LM](https://img.shields.io/badge/-Megatron_LM-000000?style=flat&logo=nvidia&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Slurm](https://img.shields.io/badge/-Slurm-007EC6?style=flat)
 ![CloudLab](https://img.shields.io/badge/-CloudLab-FCC624?style=flat)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
