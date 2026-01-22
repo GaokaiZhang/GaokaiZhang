@@ -1,12 +1,19 @@
 ## 👋 Hi there, I'm Gaokai Zhang
 
-- 🎓 I'm an incoming Master's student in **Intelligent Information Systems (MIIS)** at **CMU LTI**.  
-- 💡 I graduated from the **UIUC & ZJU dual-degree program** in Computer and Electronics Engineering.  
-- 🧠 I'm passionate about **LLMs**, **reasoning**, and **systems**.  
-- 🛠️ Most recently, I interned at **Microsoft Research Asia (MSRA)**, working on **long-context LLMs** (LongRoPE2, ICML'25) and **reinforcement learning for LLM reasoning**.  
-- ☁️ At UIUC, I’ve been building **cost-efficient LLM training pipelines** across A100/H100/TPUs with Prof. Fan Lai.  
-- 🧪 I'm also involved in research on **LLM robustness** and **data-centric safety benchmarks**.  
-- 📫 Reach me: gaokaiz@andrew.cmu.edu
+- 🎓 M.S. student in **Intelligent Information Systems (MIIS)** at **CMU LTI** (2025-2027)
+- 💡 Dual B.S. from **UIUC & ZJU** in Computer and Electronics Engineering
+- 🧠 Passionate about **LLMs**, **long-context reasoning**, and **reinforcement learning**
+- 🛠️ Previously interned at **Microsoft Research Asia (MSRA)** — worked on **LongRoPE2** (ICML'25) and **LoongRL** for long-context LLM reasoning
+- 🔬 Currently working on **SWE-Bench code-generation agents** with Prof. Lei Li's lab at CMU
+- 📫 Reach me: gaokaiz2@andrew.cmu.edu
+
+---
+
+### 🔬 Recent Research
+
+- 🧾 [**LongRoPE2**](https://arxiv.org/abs/2502.20082) — Extended LLM context to 128K tokens with >98.5% short-context retention *(ICML 2025)*
+- 🚀 [**LoongRL**](https://arxiv.org/abs/2510.19363) — RL framework enabling 7B models to outperform 32B LRMs on 100k-200k token reasoning
+- 🐒 [**Stochastic Monkeys**](https://arxiv.org/abs/2411.02785) — Robustness benchmarking of LLM safety alignment
 
 ---
 
@@ -15,31 +22,16 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-F9A03C?style=flat&logo=huggingface&logoColor=white)
-![Megatron-LM](https://img.shields.io/badge/-Megatron_LM-000000?style=flat&logo=nvidia&logoColor=white)
+![vLLM](https://img.shields.io/badge/-vLLM-FF6F00?style=flat)
+![DeepSpeed](https://img.shields.io/badge/-DeepSpeed-0078D4?style=flat&logo=microsoft&logoColor=white)
+![Megatron-LM](https://img.shields.io/badge/-Megatron_LM-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Slurm](https://img.shields.io/badge/-Slurm-007EC6?style=flat)
-![CloudLab](https://img.shields.io/badge/-CloudLab-FCC624?style=flat)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
-![QEMU](https://img.shields.io/badge/-QEMU-9A1E1E?style=flat)
-
----
-
-### 🔬 Some Projects I'm Proud Of
-
-- 🧾 [**LongRoPE2**](https://arxiv.org/abs/2502.20082)  
-  Extended LLaMA3-8B to 128K context with >98.5% short-context retention. Only used 10B tokens (80× less than Meta's).  
-  *(ICML 2025 Poster)*
-
-- ☁️ **Cloud LLM Training Planner**  
-  Planner for optimized training/inference strategies across GPU/TPU setups under varying SLOs.  
-  *(In collaboration with UIUC Systems Lab @fanlai0990)*
 
 ---
 
 ### 💬 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaokaizhang)  
-[![Email](https://img.shields.io/badge/-gaokaiz2@illinois.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaokaiz2@illinois.edu)  
-[![Personal Site](https://img.shields.io/badge/-Portfolio-000?style=flat&logo=githubpages&logoColor=white)](https://gaokaizhang.github.io)
-
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaokaizhang)
+[![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=aQCdZQgAAAAJ)
+[![Email](https://img.shields.io/badge/-gaokaiz2@andrew.cmu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaokaiz2@andrew.cmu.edu)
+[![Personal Site](https://img.shields.io/badge/-Website-000?style=flat&logo=githubpages&logoColor=white)](https://gaokaizhang.github.io)
