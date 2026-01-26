@@ -12,7 +12,7 @@
 ### 🔬 Recent Research
 
 - 🧾 [**LongRoPE2**](https://arxiv.org/abs/2502.20082) — Extended LLM context to 128K tokens with >98.5% short-context retention *(ICML 2025)*
-- 🚀 [**LoongRL**](https://arxiv.org/abs/2510.19363) — RL framework enabling 7B models to outperform 32B LRMs on 100k-200k token reasoning
+- 🚀 [**LoongRL**](https://arxiv.org/abs/2510.19363) — RL framework enabling 7B models to outperform 32B LRMs on 100k-200k token reasoning *(ICLR 2026)*
 - 🐒 [**Stochastic Monkeys**](https://arxiv.org/abs/2411.02785) — Robustness benchmarking of LLM safety alignment
 
 ---
