@@ -4,13 +4,15 @@
 - 💡 Dual B.S. from **UIUC & ZJU** in Computer and Electronics Engineering
 - 🧠 Passionate about **LLMs**, **long-context reasoning**, and **reinforcement learning**
 - 🛠️ Previously interned at **Microsoft Research Asia (MSRA)** — worked on **LongRoPE2** (ICML'25) and **LoongRL** (ICLR'26 Oral) for long-context LLM reasoning
-- 🔬 Currently working on **SWE-Bench code-generation agents** with Prof. Lei Li's lab at CMU
+- 🚀 Currently interning at **NVIDIA** on agentic-workflow tooling and tokenomics
+- 🔊 Also contributing to [**sglang-omni**](https://github.com/sgl-project/sglang-omni), SGLang's multi-modal serving engine
 - 📫 Reach me: gaokaiz2@andrew.cmu.edu
 
 ---
 
 ### 🔬 Recent Research
 
+- 🧑‍💻 [**Hybrid-Gym**](https://arxiv.org/abs/2602.16819) — Synthetic task generation for training coding agents to generalize across repository-level environments *(ICML 2026)*
 - 🧾 [**LongRoPE2**](https://arxiv.org/abs/2502.20082) — Extended LLM context to 128K tokens with >98.5% short-context retention *(ICML 2025)*
 - 🚀 [**LoongRL**](https://arxiv.org/abs/2510.19363) — RL framework enabling 7B models to outperform 32B LRMs on 100k-200k token reasoning *(ICLR 2026 Oral)*
 - 🐒 [**Stochastic Monkeys**](https://arxiv.org/abs/2411.02785) — Robustness benchmarking of LLM safety alignment
