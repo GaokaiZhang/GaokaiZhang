@@ -4,9 +4,9 @@
 - 💡 Dual B.S. from **UIUC & ZJU** in Computer and Electronics Engineering
 - 🧠 Passionate about **LLMs**, **long-context reasoning**, and **reinforcement learning**
 - 🛠️ Previously interned at **Microsoft Research Asia (MSRA)** — worked on **LongRoPE2** (ICML'25) and **LoongRL** (ICLR'26 Oral) for long-context LLM reasoning
-- 🚀 Currently interning at **NVIDIA** on agentic-workflow tooling and tokenomics
-- 🔊 Also contributing to [**sglang-omni**](https://github.com/sgl-project/sglang-omni), SGLang's multi-modal serving engine
-- 📫 Reach me: gaokaiz2@andrew.cmu.edu
+- 🚀 Currently interning at **NVIDIA**: hook/skill-based agent guardrails, token-saving agent-workflow skills (up to **-38% cost**, no accuracy loss), and agent-event telemetry for cost-governance
+- 🔊 Contributing to [**sglang-omni**](https://github.com/sgl-project/sglang-omni): native TTS model support + serving optimizations (torch.compile, CUDA Graph, LRU caching) cutting decode latency **5.5x**
+- 📫 Reach me: gaokaiz2@andrew.cmu.edu — 📄 [Resume](https://gaokaizhang.github.io/assets/pdf/Gaokai_Resume.pdf)
 
 ---
 
@@ -37,3 +37,4 @@
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=aQCdZQgAAAAJ)
 [![Email](https://img.shields.io/badge/-gaokaiz2@andrew.cmu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaokaiz2@andrew.cmu.edu)
 [![Personal Site](https://img.shields.io/badge/-Website-000?style=flat&logo=githubpages&logoColor=white)](https://gaokaizhang.github.io)
+[![Resume](https://img.shields.io/badge/-Resume-D32F2F?style=flat)](https://gaokaizhang.github.io/assets/pdf/Gaokai_Resume.pdf)
