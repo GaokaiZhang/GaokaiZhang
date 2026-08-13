@@ -4,7 +4,7 @@
 - 💡 Dual B.S. from **UIUC & ZJU** in Computer and Electronics Engineering
 - 🧠 Passionate about **LLMs**, **long-context reasoning**, and **reinforcement learning**
 - 🛠️ Previously interned at **Microsoft Research Asia (MSRA)** — worked on **LongRoPE2** (ICML'25) and **LoongRL** (ICLR'26 Oral) for long-context LLM reasoning
-- 🚀 Currently interning at **NVIDIA** on AI-agent tooling: hook/skill-based guardrails with a pluggable check API, token-saving agent-workflow skills (up to **-38% cost**, no accuracy loss), and session telemetry for cost governance
+- 🚀 Currently interning at **NVIDIA** on AI-agent tooling: a pluggable check API + Perforce backend for agent guardrails, agent-workflow skills benchmarked at up to **-38% cost** with no accuracy loss, and telemetry hardening for cost governance
 - 🔊 Contributing to [**sglang-omni**](https://github.com/sgl-project/sglang-omni): native TTS model support + serving optimizations (torch.compile, CUDA Graph, LRU caching) cutting decode latency **5.5x**
 - 💼 **Open to LLM-related MLE/RS opportunities** — graduating December 2026
 - 📫 Reach me: gaokaiz@andrew.cmu.edu — 📄 [Resume](https://gaokaizhang.github.io/assets/pdf/Gaokai_Resume.pdf)
