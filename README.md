@@ -1,12 +1,12 @@
 ## 👋 Hi there, I'm Gaokai Zhang
 
 - 🎓 M.S. student in **Intelligent Information Systems (MIIS)** at **CMU LTI** (Aug 2025 - Dec 2026)
-- 💡 Dual B.S. from **UIUC & ZJU** in Computer and Electronics Engineering
+- 💡 Dual B.S. from **UIUC** (Computer Engineering) and **ZJU** (Electrical & Computer Engineering)
 - 🧠 Passionate about **LLMs**, **long-context reasoning**, and **reinforcement learning**
 - 🛠️ Previously interned at **Microsoft Research Asia (MSRA)** — worked on **LongRoPE2** (ICML'25) and **LoongRL** (ICLR'26 Oral) for long-context LLM reasoning
 - 🚀 Currently interning at **NVIDIA** on AI-agent tooling: a pluggable check API + Perforce backend for agent guardrails, agent-workflow skills benchmarked at up to **-38% cost** with no accuracy loss, and telemetry hardening for cost governance
 - 🔊 Contributing to [**sglang-omni**](https://github.com/sgl-project/sglang-omni): native TTS model support + serving optimizations (torch.compile, CUDA Graph, LRU caching) cutting decode latency **5.5x**
-- 💼 **Open to LLM-related MLE/RS opportunities** — graduating December 2026
+- 💼 **Open to LLM-related Machine Learning Engineer / Research Scientist roles** — graduating December 2026
 - 📫 Reach me: gaokaiz@andrew.cmu.edu — 📄 [Resume](https://gaokaizhang.github.io/assets/pdf/Gaokai_Resume.pdf)
 
 ---
@@ -25,6 +25,7 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-HuggingFace-F9A03C?style=flat&logo=huggingface&logoColor=white)
+![SGLang](https://img.shields.io/badge/-SGLang-1E88E5?style=flat)
 ![vLLM](https://img.shields.io/badge/-vLLM-FF6F00?style=flat)
 ![DeepSpeed](https://img.shields.io/badge/-DeepSpeed-0078D4?style=flat&logo=microsoft&logoColor=white)
 ![Megatron-LM](https://img.shields.io/badge/-Megatron_LM-76B900?style=flat&logo=nvidia&logoColor=white)
