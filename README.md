@@ -1,12 +1,13 @@
 ## 👋 Hi there, I'm Gaokai Zhang
 
-- 🎓 M.S. student in **Intelligent Information Systems (MIIS)** at **CMU LTI** (2025-2027)
+- 🎓 M.S. student in **Intelligent Information Systems (MIIS)** at **CMU LTI** (Aug 2025 - Dec 2026)
 - 💡 Dual B.S. from **UIUC & ZJU** in Computer and Electronics Engineering
 - 🧠 Passionate about **LLMs**, **long-context reasoning**, and **reinforcement learning**
 - 🛠️ Previously interned at **Microsoft Research Asia (MSRA)** — worked on **LongRoPE2** (ICML'25) and **LoongRL** (ICLR'26 Oral) for long-context LLM reasoning
-- 🚀 Currently interning at **NVIDIA**: hook/skill-based agent guardrails, token-saving agent-workflow skills (up to **-38% cost**, no accuracy loss), and agent-event telemetry for cost-governance
+- 🚀 Currently interning at **NVIDIA** on AI-agent tooling: hook/skill-based guardrails with a pluggable check API, token-saving agent-workflow skills (up to **-38% cost**, no accuracy loss), and session telemetry for cost governance
 - 🔊 Contributing to [**sglang-omni**](https://github.com/sgl-project/sglang-omni): native TTS model support + serving optimizations (torch.compile, CUDA Graph, LRU caching) cutting decode latency **5.5x**
-- 📫 Reach me: gaokaiz2@andrew.cmu.edu — 📄 [Resume](https://gaokaizhang.github.io/assets/pdf/Gaokai_Resume.pdf)
+- 💼 **Open to LLM-related MLE/RS opportunities** — graduating December 2026
+- 📫 Reach me: gaokaiz@andrew.cmu.edu — 📄 [Resume](https://gaokaizhang.github.io/assets/pdf/Gaokai_Resume.pdf)
 
 ---
 
@@ -35,6 +36,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/gaokaizhang)
 [![Google Scholar](https://img.shields.io/badge/-Google%20Scholar-4285F4?style=flat&logo=googlescholar&logoColor=white)](https://scholar.google.com/citations?user=aQCdZQgAAAAJ)
-[![Email](https://img.shields.io/badge/-gaokaiz2@andrew.cmu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaokaiz2@andrew.cmu.edu)
+[![Email](https://img.shields.io/badge/-gaokaiz@andrew.cmu.edu-D14836?style=flat&logo=gmail&logoColor=white)](mailto:gaokaiz@andrew.cmu.edu)
 [![Personal Site](https://img.shields.io/badge/-Website-000?style=flat&logo=githubpages&logoColor=white)](https://gaokaizhang.github.io)
 [![Resume](https://img.shields.io/badge/-Resume-D32F2F?style=flat)](https://gaokaizhang.github.io/assets/pdf/Gaokai_Resume.pdf)
